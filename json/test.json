@@ -1,12 +1,1 @@
-{
-    "Outputs": [
-        {
-            "UsePostProcessingOutputs": true,
-            "CellLink": "tree!expValue",
-            "Key": "tree_expValue",
-            "Units": "millions of dollars",
-            "CellLinkAbbr": "tree!expValue",
-            "Display": "Expected Value"
-        }
-    ]
-}
+{a:1}
